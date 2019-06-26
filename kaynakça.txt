@@ -1,0 +1,15 @@
+SQL sorgularý için yararlanýlan kaynaklar;
+
+http://hrzafer.com/sql-15-group-by-ifadesi
+http://www.farukunal.net/blog.aspx?id=yazilarim_sql_group_by___gruplama_yapmak-109-1-faruk-unal-blog.yazilarim
+http://www.btdersleri.com/ders/Select-Sorgusu-Where-Order-By-Like-Between-Kullan%C4%B1m%C4%B1
+http://www.sekercioglu.eu/index.php/mysql-ile-top-5-gibi-sorgular-nasil-yapilir/
+http://tayfunkadir.com/Makaleler/MySql-ile-Verilerin-Siralanmasi--ORDER-BY/64
+http://www.farukunal.net/blog.aspx?id=yazilarim_sql_de_siralama_yapmak___order_by_kullanimi-85-1-faruk-unal-blog.yazilarim
+http://www.ismailgursoy.com.tr/where-ve-order-by-deyimlerinin-birlikte-kullanimi/
+
+
+
+c# datagridview 
+https://www.ahmetcansever.com/programlama/datagridview-kontrolu-genel-ozellikleri/
+

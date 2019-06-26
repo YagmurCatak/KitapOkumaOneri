@@ -1,0 +1,1 @@
+SELECT * FROM booksdatabase.tbl_bxbookrating;
